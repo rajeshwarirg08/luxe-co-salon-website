@@ -1,0 +1,17 @@
+{
+  "name": "luxe-co-salon-website",
+  "version": "1.0.0",
+  "description": "Luxe & Co. luxury salon website prototype",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:ui": "vitest --ui"
+  },
+  "devDependencies": {
+    "fast-check": "^4.8.0",
+    "happy-dom": "^12.10.3",
+    "jsdom": "^23.0.1",
+    "vitest": "^1.0.4"
+  }
+}
