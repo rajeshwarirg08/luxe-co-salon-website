@@ -6,7 +6,7 @@
  * - Verify color values match specifications
  * - Verify font families are correctly imported
  * 
- * Feature: luxe-co-salon-website
+ * Feature: stylish-salon-website
  */
 
 import { describe, it, expect, beforeEach } from 'vitest';
