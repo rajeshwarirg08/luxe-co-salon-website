@@ -1,7 +1,7 @@
 {
-  "name": "luxe-co-salon-website",
+  "name": "stylish-salon-website",
   "version": "1.0.0",
-  "description": "Luxe & Co. luxury salon website prototype",
+  "description": "Stylish Salon luxury salon website prototype",
   "type": "module",
   "scripts": {
     "test": "vitest run",
