@@ -1,6 +1,6 @@
-# Luxe & Co. Salon Website - Test Suite
+# Stylish Salon Website - Test Suite
 
-This directory contains unit tests and property-based tests for the Luxe & Co. salon website.
+This directory contains unit tests and property-based tests for the Stylish Salon website.
 
 ## Test Framework
 
