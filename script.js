@@ -1,4 +1,4 @@
-// Luxe & Co. Salon Website - JavaScript
+// Stylish Salon Website - JavaScript
 // Minimal JavaScript for hamburger menu toggle
 
 document.addEventListener('DOMContentLoaded', function() {
